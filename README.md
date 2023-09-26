@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on my projects
-- 📫 You can reach m eby my email : 21rayankhatib21@gmail.com
+- 📫 You can reach m eby my email : rayankhatib21@gmail.com
 
 <!---
 mrkhatib3i/mrkhatib3i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

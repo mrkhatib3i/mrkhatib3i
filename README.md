@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mrkhatib3i
+- 👋 Hi, I’m Rayan Khatib
 - 👀 I’m interested in AI...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on my projects
-- 📫 You can reach m eby my email : rayankhatib21@gmail.com
+- 📫 You can reach me by my email : rayankhatib21@gmail.com
 
 <!---
 mrkhatib3i/mrkhatib3i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
